@@ -1,0 +1,4 @@
+﻿  problema.cpp
+C:\Users\GOGO\Desktop\problems\problema\problema\problema.cpp(14,19): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\GOGO\Desktop\problems\problema\problema\problema.cpp(15,19): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  problema.vcxproj -> C:\Users\GOGO\Desktop\problems\problema\x64\Debug\problema.exe
